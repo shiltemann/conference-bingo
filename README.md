@@ -2,6 +2,8 @@
 
 ## Bioinformatics Conference
 
+inspired by https://github.com/ddomingof
+
 | B                | I                       | N                                                       | G                                                                             | O                    |
 | :-----------:    | :-------------:         | :-------------:                                         | :-------------:                                                               | :-------------:      |
 | BLOCKCHAIN  | DEEP LEARNING (when in reality is linear regression)| ARTIFICIAL INTELLIGENCE  | DATA SCIENCE | FAIR DATA |
